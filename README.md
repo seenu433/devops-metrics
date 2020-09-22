@@ -1,6 +1,6 @@
 # devops-metrics
 
-Metric Exporter for HPA as detailed in the [post](https://github.com/seenu433/devops-diaries/autoscale-agent-hpa.md)
+Metric Exporter for HPA as detailed in the [post](https://github.com/seenu433/devops-diaries/blob/master/autoscale-agent-hpa.md)
 ### Build nginx image
 docker build -t myregistry/nginx-reverseproxy:1.0 -f Nginx.Dockerfile .
 
